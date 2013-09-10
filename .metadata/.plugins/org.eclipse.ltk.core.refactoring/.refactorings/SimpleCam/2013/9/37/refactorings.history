@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;surfaceView1&apos; in &apos;com.thanasi.simplecam.R.id&apos; to &apos;previewWin&apos;&#x0A;- Original project: &apos;SimpleCam&apos;&#x0A;- Original element: &apos;com.thanasi.simplecam.R.id.surfaceView1&apos;&#x0A;- Renamed element: &apos;com.thanasi.simplecam.R.id.previewWin&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="true" description="Rename field &apos;surfaceView1&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/gen&lt;com.thanasi.simplecam{R.java[R[id^surfaceView1" name="previewWin" references="true" setter="false" stamp="1378763698668" textual="false" version="1.0"/>
+</session>
