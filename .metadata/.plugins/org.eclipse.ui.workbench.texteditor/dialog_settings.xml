@@ -13,16 +13,16 @@
 		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="" key="selection"/>
+		<item value="BLUE" key="selection"/>
 		<list key="findhistory">
+			<item value="BLUE"/>
+			<item value="90"/>
 			<item value="finalize"/>
 			<item value="visibility"/>
 			<item value="INVISIBLE"/>
 			<item value="Preview Surface"/>
 			<item value="surfaceDes"/>
 			<item value="SurfaceView"/>
-			<item value="surfaceView"/>
-			<item value="surface"/>
 		</list>
 		<list key="replacehistory">
 		</list>
