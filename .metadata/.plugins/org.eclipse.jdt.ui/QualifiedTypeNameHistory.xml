@@ -8,7 +8,6 @@
 <fullyQualifiedTypeName name="java.io.IOError"/>
 <fullyQualifiedTypeName name="android.view.SurfaceView"/>
 <fullyQualifiedTypeName name="android.view.ViewGroup"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="android.view.SurfaceHolder.Callback"/>
 <fullyQualifiedTypeName name="android.hardware.Camera"/>
 <fullyQualifiedTypeName name="com.thanasi.bwcam.R.id"/>
@@ -26,4 +25,7 @@
 <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="android.hardware.Camera.Parameters"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
