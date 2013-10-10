@@ -2,9 +2,9 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="263" key="DIALOG_WIDTH"/>
-		<item value="123" key="DIALOG_Y_ORIGIN"/>
+		<item value="128" key="DIALOG_Y_ORIGIN"/>
 		<item value="399" key="DIALOG_HEIGHT"/>
-		<item value="495" key="DIALOG_X_ORIGIN"/>
+		<item value="713" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
@@ -13,18 +13,19 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="magic" key="selection"/>
+		<item value="" key="selection"/>
 		<list key="findhistory">
-			<item value="magic"/>
-			<item value="macro"/>
-			<item value="MACRO"/>
-			<item value="createAux"/>
-			<item value="save"/>
-			<item value="90"/>
-			<item value="Bitmap"/>
-			<item value="BLUE"/>
+			<item value="portr"/>
+			<item value="hor"/>
+			<item value="landscape"/>
+			<item value="tag"/>
+			<item value="Native"/>
+			<item value="NATIVE"/>
+			<item value="native"/>
+			<item value="ImageManipulationsActivity"/>
 		</list>
 		<list key="replacehistory">
+			<item value="CamViewActivity"/>
 		</list>
 	</section>
 </section>
