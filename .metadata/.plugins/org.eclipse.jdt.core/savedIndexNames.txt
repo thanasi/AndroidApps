@@ -1,6 +1,4 @@
 INDEX VERSION 1.126+/Users/thanasi/coding/android/.metadata/.plugins/org.eclipse.jdt.core
-1935308408.index
-1911219507.index
-3202980635.index
-2050103131.index
+1681698488.index
 2138068061.index
+1911219507.index
