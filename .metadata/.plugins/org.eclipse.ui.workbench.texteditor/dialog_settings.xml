@@ -2,8 +2,8 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="263" key="DIALOG_WIDTH"/>
-		<item value="128" key="DIALOG_Y_ORIGIN"/>
-		<item value="713" key="DIALOG_X_ORIGIN"/>
+		<item value="101" key="DIALOG_Y_ORIGIN"/>
+		<item value="955" key="DIALOG_X_ORIGIN"/>
 		<item value="399" key="DIALOG_HEIGHT"/>
 		<item value="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" key="DIALOG_FONT_NAME"/>
 	</section>
@@ -13,18 +13,20 @@
 		<item value="false" key="isRegEx"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="CameraView" key="selection"/>
+		<item value="float[" key="selection"/>
 		<list key="findhistory">
-			<item value="CvCameraViewListener"/>
-			<item value="cameraView"/>
-			<item value="mCamera"/>
-			<item value="Camera"/>
-			<item value="camera"/>
-			<item value="MatOfRect"/>
-			<item value="Rect"/>
-			<item value="ArrayOf"/>
+			<item value="float["/>
+			<item value="Float"/>
+			<item value="float"/>
+			<item value="Mat"/>
+			<item value="Buff"/>
+			<item value="MatOfFloat"/>
+			<item value="MatOfInt"/>
+			<item value="double"/>
 		</list>
 		<list key="replacehistory">
+			<item value="matchFeatures"/>
+			<item value="TAG"/>
 			<item value="CamViewActivity"/>
 		</list>
 	</section>

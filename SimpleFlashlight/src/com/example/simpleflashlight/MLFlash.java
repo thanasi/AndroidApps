@@ -31,7 +31,7 @@ public class MLFlash extends Activity {
 		setContentView(R.layout.activity_mlflash);
 
 	   /* Retrieve the layout elements (buttonFlashlight and backgroundView) and cast them
-		*  into objects we can use here. 
+		*  into objects we can use here.
 		*/
 
 		button = (Button) findViewById(R.id.flashButton);

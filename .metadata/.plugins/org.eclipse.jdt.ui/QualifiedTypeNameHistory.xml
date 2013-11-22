@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="android.graphics.SurfaceTexture"/>
 <fullyQualifiedTypeName name="java.io.IOError"/>
 <fullyQualifiedTypeName name="android.view.SurfaceView"/>
-<fullyQualifiedTypeName name="android.view.ViewGroup"/>
 <fullyQualifiedTypeName name="android.view.SurfaceHolder.Callback"/>
 <fullyQualifiedTypeName name="android.hardware.Camera"/>
 <fullyQualifiedTypeName name="com.thanasi.bwcam.R.id"/>
@@ -30,11 +29,19 @@
 <fullyQualifiedTypeName name="com.thanasi.camscan.R.layout"/>
 <fullyQualifiedTypeName name="android.R.layout"/>
 <fullyQualifiedTypeName name="android.R"/>
-<fullyQualifiedTypeName name="org.opencv.core.Core"/>
-<fullyQualifiedTypeName name="android.graphics.Color"/>
 <fullyQualifiedTypeName name="org.opencv.core.MatOfPoint"/>
-<fullyQualifiedTypeName name="org.opencv.android.CameraBridgeViewBase.CvCameraViewFrame"/>
-<fullyQualifiedTypeName name="java.util.concurrent.BlockingQueue"/>
+<fullyQualifiedTypeName name="org.opencv.features2d.Features2d"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="com.thanasi.stitchcam.R.id"/>
+<fullyQualifiedTypeName name="android.view.ViewGroup"/>
 <fullyQualifiedTypeName name="java.util.concurrent.LinkedBlockingQueue"/>
+<fullyQualifiedTypeName name="java.util.concurrent.BlockingQueue"/>
 <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="com.thanasi.hsprof.R.id"/>
+<fullyQualifiedTypeName name="org.opencv.core.Core"/>
+<fullyQualifiedTypeName name="org.opencv.imgproc.Imgproc"/>
+<fullyQualifiedTypeName name="org.opencv.core.Point"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="org.opencv.core.Scalar"/>
+<fullyQualifiedTypeName name="org.opencv.android.CameraBridgeViewBase.CvCameraViewFrame"/>
 </qualifiedTypeNameHistroy>

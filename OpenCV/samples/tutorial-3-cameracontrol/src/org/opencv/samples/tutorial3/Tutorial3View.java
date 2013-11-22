@@ -14,7 +14,7 @@ import android.util.Log;
 
 public class Tutorial3View extends JavaCameraView implements PictureCallback {
 
-    private static final String TAG = "Sample::Tutorial3View";
+    private static final String TAG = "Sample::HSProfView";
     private String mPictureFileName;
 
     public Tutorial3View(Context context, AttributeSet attrs) {

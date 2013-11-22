@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=HelloWorld,SimpleFlashlight,BWcam,SimpleCam,ScanCam,OpenCV Library - 2.4.6,OpenCV Sample - image-manipulations,OpenCV Tutorial 3 - Camera Control,OCV_LFCam,OpenCV Sample - face-detection,OpenCVCamera,OpenCVImgProcess,faceRecognition
+task-tag-projects-already-scanned=HelloWorld,SimpleFlashlight,BWcam,SimpleCam,ScanCam,OpenCV Library - 2.4.6,OpenCV Sample - image-manipulations,OpenCV Tutorial 3 - Camera Control,OCV_LFCam,OpenCV Sample - face-detection,OpenCVCamera,OpenCVImgProcess,faceRecognition,StitchCam2,StitchCam2Threaded,OpenCV Sample - native-activity,HiSpeedFrame,HighSpeedProfiler2,OpenCVCameraGraph,OpenCVCameraGraph2
